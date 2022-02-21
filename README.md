@@ -4,7 +4,7 @@ Project name: Online Banking (Kaspi.kz prototype)
 Description - We wanted to create a program that helps bank users to monitor bank accounts. The idea was inspired by Kaspi.kz. 
 
 Account class is the base class for all account types to store all the child class object in a single container.
-SavingAccount class is an account for Yearly Interest Rate for profit
+SavingAccount class is an account for Yearly Interest Rate for profit.
 Checking account class is an account for Transaction Fee.
 Menu class provides Menu driven User Interaction. User can create and select an account, deposit, withdraw Funds. 
 
